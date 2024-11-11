@@ -76,5 +76,5 @@ You may choose one of 3 output formats below,
 [//]: # (### Download Files:)
 
 
-![FTP Server](Input Paramater.PNG)
+![FTP Server](InputParamater.PNG)
 
